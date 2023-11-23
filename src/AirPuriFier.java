@@ -1,8 +1,8 @@
 //  ข้อ1
 // what should be instance variables?
-// 1.name 2.num 3.power 4.fanspeed 5.SerialNumber 
+// 1.name 2.power 3.fanspeed 4.SerialNumber
 // what should be instance methods?
-// 1.setname 2.setname and Serialnumber 3. set mode 4.turn on 5.turn-off
+//  1.setname and Serialnumber 2. set mode 3.turn on 4.turn-off
 // what should be class variables?
 // 1.total 
 // what should be class methods?
