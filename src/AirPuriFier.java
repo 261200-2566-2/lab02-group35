@@ -9,7 +9,7 @@
 // 1.mostpopularmodel 
 // ข้อ2
 // input = turn on-off setfanspeed
-// output = show that turn on turn off fanspeed,show total airpurifier
+// output = show that turn on turn off fanspeed,show stats airpurifier
 
 
 public class AirPuriFier {
